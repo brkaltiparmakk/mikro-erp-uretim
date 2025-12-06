@@ -1,4 +1,4 @@
-# 📘 Barkim Üretim Takip Sistemi
+
 
 ## 🎯 Projenin Amacı
 
